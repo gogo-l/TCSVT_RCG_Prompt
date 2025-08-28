@@ -1,10 +1,10 @@
 
-### Official repo for RCG-Prompt: Fine-Grained Continual Learning via Residual Concept Guiding.
+Official repo for RCG-Prompt: Fine-Grained Continual Learning via Residual Concept Guiding.
 
 
 
 
-### 🗂️ Dependencies
+🗂️ Dependencies
 
 1. [torch 2.0.1](https://github.com/pytorch/pytorch)
 2. [torchvision 0.15.2](https://github.com/pytorch/vision)
@@ -15,9 +15,9 @@
 7. [easydict](https://github.com/makinacorpus/easydict)
 
 
-### 🔑 Run experiment
+🔑 Run experiment
 
-1. Edit the `TIPS.json` file for global settings and hyperparameters.
+1. Edit the `coda_prompt.json` file for global settings and hyperparameters.
 2. Run coda_prompt:
 
     ```bash
