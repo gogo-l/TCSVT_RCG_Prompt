@@ -3,7 +3,7 @@ Official repo for RCG-Prompt: Fine-Grained Continual Learning via Residual Conce
 
 ### The overall structure of our model:
 <p align="center">
-<img src="main.png"  width="800px">
+<img src="main.PNG"  width="800px">
 </p>
 
 
