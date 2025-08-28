@@ -1,5 +1,6 @@
 
-Official repo for RCG-Prompt: Fine-Grained Continual Learning via Residual Concept Guiding.
+### Official repo for RCG-Prompt: Fine-Grained Continual Learning via Residual Concept Guiding.
+We will open-source our model weights upon acceptance of the paper.
 
 ### The overall structure of our model:
 <p align="center">
