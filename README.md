@@ -1,7 +1,10 @@
 
 Official repo for RCG-Prompt: Fine-Grained Continual Learning via Residual Concept Guiding.
 
-
+### The overall structure of our model:
+<p align="center">
+<img src="main.png"  width="800px">
+</p>
 
 
 🗂️ Dependencies
